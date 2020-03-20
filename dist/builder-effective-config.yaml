@@ -1,4 +1,4 @@
 directories:
   output: dist
   buildResources: build
-electronVersion: 8.1.1
+electronVersion: 7.1.14

@@ -2,7 +2,7 @@
   "name": "TomatoClient",
   "version": "1.8.5",
   "description": "TomatoClient",
-  "main": "main.js",
+  "main": "app/main.js",
   "scripts": {
     "start": "electron ."
   },
