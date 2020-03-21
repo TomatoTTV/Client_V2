@@ -1,4 +1,4 @@
-require('v8-compile-cache');
+require("v8-combile-cache-");
 require("./log.js")
 const { BrowserWindow, app, shell, Menu, ipcMain, net } = require('electron');
 const shortcut = require('electron-localshortcut');
