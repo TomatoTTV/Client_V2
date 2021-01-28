@@ -8,7 +8,7 @@
   },
   "author": "Tomato",
   "devDependencies": {
-    "electron": "^7.1.14",
+    "electron": "^9.4.0",
     "electron-builder": "^22.4.1"
   },
   "dependencies": {
